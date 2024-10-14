@@ -1,0 +1,10 @@
+21:46:10 **** Incremental Build of configuration Debug for project contact_test2 ****
+make -j22 all 
+arm-none-eabi-size  contact_test2.elf 
+   text	   data	    bss	    dec	    hex	filename
+  10176	     12	   1652	  11840	   2e40	contact_test2.elf
+Finished building: default.size.stdout
+ 
+
+21:46:10 Build Finished. 0 errors, 0 warnings. (took 332ms)
+
